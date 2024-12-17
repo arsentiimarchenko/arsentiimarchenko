@@ -6,7 +6,7 @@
 - 😄 Pronouns: Arsentii/he/him
 - ⚡ Fun fact: Coding
 
-*WORKING GITHUB*: ![HADES255](https://github/hades255)
+*WORKING GITHUB*: <a href="https://github/hades255" target="_blank">HADES255</a>
 
 <!---
 arsentiimarchenko/arsentiimarchenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
